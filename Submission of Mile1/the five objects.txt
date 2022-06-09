@@ -1,0 +1,5 @@
+sysDescr  == GET == .1.3.6.1.2.1.1.1.0
+sysName  == GET == .1.3.6.1.2.1.1.5.0
+sysCONTACT == SET == .1.3.6.1.2.1.1.4.0
+sysLocation  == TRAP == .1.3.6.1.2.1.1.6.0
+ipAdEntAddr == GETNEXT == .1.3.6.1.2.1.4.20.1.1
